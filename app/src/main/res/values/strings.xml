@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">FontSimulator</string>
+    <string name="main_input">입력</string>
+    <string name="main_output">결과</string>
+    <string name="font_select_title">폰트 종류(Noto Sans KR)</string>
+    <string name="regular">Regular</string>
+    <string name="medium">Medium</string>
+    <string name="bold">Bold</string>
+    <string name="default_title">기본 값 (자간/행간 적용 X)</string>
+    <string name="line_spacing_title">행간(Line Spacing) 조정 값</string>
+    <string name="default_three_title">기본 값 (자간/행간 적용 X - 3줄)</string>
+    <string name="letter_spacing_title">자간(Letter Spacing) 조정 값 - 3줄</string>
+    <string name="font_size_change_title">Font Size %dsp</string>
+    <string name="line_spacing_change_title">Line Spacing %dp</string>
+    <string name="letter_spacing_change_title">Letter Spacing %1$s</string>
 </resources>

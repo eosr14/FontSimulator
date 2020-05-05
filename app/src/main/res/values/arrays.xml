@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_list">
+        <item>Default Device Font</item>
+        <item>NotoSansKR-Bold.otf</item>
+        <item>NotoSansKR-Medium.otf</item>
+        <item>NotoSansKR-Regular.otf</item>
+    </string-array>
+</resources>
